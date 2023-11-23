@@ -1,0 +1,2 @@
+from tp_integrador_enunciado.utils.data_generation import generate_dataset
+import matplotlib.pyplot as plt
